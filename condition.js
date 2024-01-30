@@ -1,10 +1,10 @@
-// const ispased = false;
-// if(!ispased){
-//     console.log('biya dimu')
-// }
-// else {
-//     console.log("fun")
-// }
+const ispased = false;
+if(!ispased){
+    console.log('biya dimu')
+}
+else {
+    console.log("fun")
+}
 
 let score = 75;
 let grade;
